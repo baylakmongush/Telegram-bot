@@ -1,0 +1,10 @@
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/TelegramBot.exe.config
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/TelegramBot.exe
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/Newtonsoft.Json.dll
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/Telegram.Bot.dll
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/Newtonsoft.Json.xml
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Release/Telegram.Bot.xml
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Release/TelegramBot.exe.config
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Release/TelegramBot.csproj.CoreCompileInputs.cache
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Release/TelegramBot.csproj.CopyComplete
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Release/TelegramBot.exe
