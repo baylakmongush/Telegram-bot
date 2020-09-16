@@ -1,13 +1,12 @@
+/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe.config
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.pdb
-/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csprojAssemblyReference.cache
-/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csproj.CoreCompileInputs.cache
-/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.exe
-/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.pdb
-/Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe.config
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/Newtonsoft.Json.dll
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/Telegram.Bot.dll
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/Newtonsoft.Json.xml
 /Users/baylak/Projects/TelegramBot/TelegramBot/bin/Debug/Telegram.Bot.xml
 /Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.exe.config
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csproj.CoreCompileInputs.cache
 /Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.csproj.CopyComplete
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.exe
+/Users/baylak/Projects/TelegramBot/TelegramBot/obj/Debug/TelegramBot.pdb
